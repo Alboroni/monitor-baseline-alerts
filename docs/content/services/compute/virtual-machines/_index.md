@@ -14,7 +14,7 @@ The baseline alerts in this guidance include Virtual Machines and associated res
 {{< table style="table-striped" >}}
 | Policy                                    |
 | :---------------------------------------------------------------------: 
-| [PR-1 - Metric Alert for Virtual Machine Available Memory (MBytes)](#pr-1---metric-alert-for-virtual-machine-mvailable-memory-(MBytes)) |
+| [PR-1 - Metric Alert for Virtual Machine Available Memory](#pr-1---metric-alert-for-virtual-machine-available-memory) |
 | [PR-2 - CHANGE ME title](#pr-2---change-me-title) |
 {{< /table >}}
 
@@ -24,7 +24,7 @@ The baseline alerts in this guidance include Virtual Machines and associated res
 
 ## Policy Details
 
-### PR-1 - Metric Alert for Virtual Machine Available Memory (MBytes)
+### PR-1 - Metric Alert for Virtual Machine Available Memory
 
 **Baseline Alert Policy**
 
