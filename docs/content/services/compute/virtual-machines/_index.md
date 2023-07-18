@@ -39,7 +39,7 @@ FILL ME IN...
 
 {{< collapse title="Show/Hide Query/Script" >}}
 
-{{< code lang="sql" file="code/pr-1/policyRule.json" >}} {{< /code >}}
+{{< code lang="json" file="code/pr-1/policyRule.json" >}} {{< /code >}}
 
 {{< /collapse >}}
 
@@ -60,7 +60,7 @@ FILL ME IN...
 
 {{< collapse title="Show/Hide Query/Script" >}}
 
-{{< code lang="sql" file="code/pr-2/policyRule.json" >}} {{< /code >}}
+{{< code lang="json" file="code/pr-2/policyRule.json" >}} {{< /code >}}
 
 {{< /collapse >}}
 
