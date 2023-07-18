@@ -1,6 +1,8 @@
-# Baseline Alerts for Monitoring in Azure
-
-> **Please access the GitHub Pages site, unless looking to contribute, over at: [https://github.com/Azure/monitor-baseline-alerts](https://github.com/Azure/monitor-baseline-alerts)**
++++
+title = "Home"
+description = "Welcome to the home of the Baseline Alerts for Monitoring in Azure"
+weight = 1
++++
 
 Welcome to the home of the Baseline Alerts for Monitoring in Azure.
 
@@ -29,16 +31,22 @@ This project is an opinionated view on what you should monitor for the key compo
 - Virtual Machines
 - TBD
 
+## Get Started
+
+To get started head over to the [Azure Services section]({{< ref "services/_index.md">}}) and then navigate via the appropriate category to find example policies.
+
+{{< alert style="info" >}}
+
+You can also use the basic search functionality provided by this site to locate the Azure service you are looking for guidance, recommendations and supporting queries and scripts for.
+
+{{< /alert >}}
+
 ## Contributing
 
-> The contribution guide can be found on the GitHub pages site here: [https://azure.github.io/monitor-baseline-alerts/contributing/](https://azure.github.io/monitor-baseline-alerts/contributing)
+Please see the [contribution guide here]({{< ref "contributing/_index.md">}}).
 
-This project only currently accepts Pull Requests from Microsoft FTEs as of today. However, anyone is welcomed to create issues/features requests on the repo for the team to triage and action.  Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit [https://cla.opensource.microsoft.com](https://cla.opensource.microsoft.com).
+{{< alert style="info" >}}
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions provided by the bot. You will only need to do this once across all repos using our CLA.
+Please note that this site is built upon [GithHub Pages](https://pages.github.com) using [Hugo](https://gohugo.io/) which is using the [Ace Documentation theme](https://docs.vantage-design.com/ace/)
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
-
-## Trademarks
-
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft trademarks or logos is subject to and must follow [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general). Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship. Any use of third-party trademarks or logos are subject to those third-party's policies.
+{{< /alert >}}
