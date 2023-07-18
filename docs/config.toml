@@ -22,17 +22,19 @@ toc = false
 [outputs]
 home = ["HTML", "JSON", "RSS"]
 
-[[menu.shortcuts]]
-name = "Alerts for Azure Landing Zone"
-url = "https://aka.ms/waf"
-weight = 1
-
-[[menu.shortcuts]]
-name = "Source Code <i class='fab fa-github'></i>"
-url = "https://github.com/Azure/alz-monitor"
-weight = 1
 
 [[menu.shortcuts]]
 name = "Source Code <i class='fab fa-github'></i>"
 url = "https://github.com/Azure/monitor-baseline-alerts"
 weight = 1
+
+[[menu.shortcuts]]
+name = "Alerts for Azure Landing Zone <i class='fab fa-github'></i>"
+url = "https://github.com/Azure/alz-monitor"
+weight = 1
+
+[[menu.shortcuts]]
+name = "Well-Architected Framework"
+url = "https://aka.ms/waf"
+weight = 1
+
