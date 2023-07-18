@@ -1,9 +1,9 @@
 +++
-title = "{{ replace .Name "-" " " | title }}"
-description = "{{ replace .Name "-" " " | title }} Services"
-date = "{{ .Date | time.Format ":date_short" }}"
-author = "CHANGE ME TO YOUR GITHUB USERNAME"
-msAuthor = "CHANGE ME TO YOUR MICROSOFT ALIAS"
+title = "Compute"
+description = "Compute Services"
+date = "2023-07-18T10:12:16Z"
+author = "JoeyBarnes"
+msAuthor = "jobarn"
 draft = false
 +++
 

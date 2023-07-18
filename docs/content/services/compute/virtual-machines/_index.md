@@ -1,13 +1,13 @@
 +++
-title = "{{ replace .Name "-" " " | title }}"
-description = "Baseline Alerts for {{ replace .Name "-" " " | title }} and associated resources and settings."
-date = "{{ .Date | time.Format ":date_short" }}"
-author = "CHANGE ME TO YOUR GITHUB USERNAME"
-msAuthor = "CHANGE ME TO YOUR MICROSOFT ALIAS"
+title = "Virutal Machines"
+description = "Baseline Alerts for Virtual Machines and associated resources and settings."
+date = "2023-07-18T10:12:16Z"
+author = "JoeyBarnes"
+msAuthor = "jobarn"
 draft = false
 +++
 
-The baseline alerts in this guidance include {{ replace .Name "-" " " | title }} and associated resources and settings.
+The baseline alerts in this guidance include Virtual Machines and associated resources and settings.
 
 ## Summary of Baseline Alert Policies
 
