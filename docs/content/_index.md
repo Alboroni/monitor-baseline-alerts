@@ -7,6 +7,7 @@ weight = 1
 Welcome to the home of the Baseline Alerts for Monitoring in Azure.
 
 <img src="/monitor-baseline-alerts/media/img/abla-white.png" width=40%>
+<br><br>
 
 ## Disclaimer
 

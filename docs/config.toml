@@ -30,9 +30,9 @@ weight = 1
 [[menu.shortcuts]]
 name = "Source Code <i class='fab fa-github'></i>"
 url = "https://github.com/Azure/alz-monitor"
-weight = 10
+weight = 1
 
 [[menu.shortcuts]]
 name = "Source Code <i class='fab fa-github'></i>"
 url = "https://github.com/Azure/monitor-baseline-alerts"
-weight = 10
+weight = 1
